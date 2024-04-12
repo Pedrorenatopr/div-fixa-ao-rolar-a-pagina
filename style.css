@@ -1,0 +1,23 @@
+body {
+    height: 5000px;
+    font: 13px verdana, sans-serif;
+}
+div {
+    margin: 10px;
+}
+.other {
+    width: 200px;
+    padding: 3em;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-top: #4898c6 3px solid;
+    text-align: center;
+}
+.element {
+    width: 200px;
+    padding: 3em;
+    background: #f9f9f9;
+    border: 1px solid #ddd;
+    border-top: #dc0000 3px solid;
+    text-align: center;
+}
